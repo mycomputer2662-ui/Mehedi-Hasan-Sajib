@@ -1,0 +1,6 @@
+{
+  "name": "Viral 4K YouTube Thumbnail Studio",
+  "description": "High-contrast, ultra eye-catching 4K YouTube thumbnail creator inspired by viral breaking news and welfare announcement formats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
